@@ -2,9 +2,9 @@
 
 
 
-**Email**: chenyangzhang@ruc.edu.cn
+**Email**: 2018202181@ruc.edu.cn
 
-Chenyang Zhang is an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interests include recommender systems, reinforcement learning and deep learning. 
+Zihua Si is an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interests include recommender systems, reinforcement learning and deep learning. 
 
 ## Education Background
 
