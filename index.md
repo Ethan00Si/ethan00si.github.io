@@ -12,4 +12,4 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Publication
 
-Coming soon!
+Partial Information as Full: Batched Bandits using Efficient Reward Imputation, submitted to NeurIPS 2021, under review.
