@@ -1,89 +1,88 @@
-# The Minimal Light Theme
+# Minimal Light 主题
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 [![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square&logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
 [![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&logo=travis-ci&color=3EAAAF)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
-\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
+\[[在线演示](https://minimal-light.yyliu.net/)\] \[[繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
  
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+*这个项目包含我主页的源代码. 基于 GitHub 官方主题之一 [minimal](https://github.com/orderedlist/minimal) 创建*
 <br>
-*Feel free to use and share the source code anywhere you like.*
+*如果您喜欢这个项目，欢迎您使用和分享*
 
-## Features
+## 项目特点
 
-- Simple and elegant personal homepage theme
-- Jekyll theme, deploy automatically by GitHub pages
-- Basic Search Engine Optimization
-- Mobile friendly
-- Support Markdown 
-- Support dark mode
+- 简单优雅的学术个人主页模板
+- 基于 Jekyll, 可以在 GitHub Pages 服务下自动部署
+- 基本的搜索引擎优化
+- 移动端适配
+- 支持 Markdown
+- 支持自动的暗黑模式
 
-## Usage
+## 使用指南
+### 在GitHub上使用
 
-### Using on GitHub 
-
-To use this theme, add the following to your repository's `_config.yml`:
+只要在你的项目中添加如下内容的`_config.yml`文件，GitHub Pages 服务就会使用该主题部署网页:
 
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
 ```
+请注意：添加上述内容到你的项目，会直接应用这个仓库的所有的默认设置。
 
-Please note that adding the above line will directly apply all the default settings in this repository to yours.
+如果你希望编辑任何文件（例如：`index.md`)，你仍需要把该文件拷贝到你的项目中。
 
-If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
+你也可以直接 fork 这个仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，然后把名字改为`your-username.github.io`.
 
-You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
+#### 在GitHub上使用自定义域名
 
-#### Using a custom domain on GitHub
+在你的 DNS 设置中添加如下的`CNAME`解析记录：
 
-Add a `CNAME` DNS record to your domain as follows:
 ```
-Host: whatever you want. e.g., "www" 
+Host: 根据需求自定义，例如： "www" 
 Target / Canonical name: your-username.github.io.
 TTL: 10 min
 ```
-You may also add an `A` DNS record instead of the `CNAME` record as follows:
+你也可以添加如下的`A`解析记录（如果无法使用`CNAME`记录的话）：
 ```
-Host: whatever you want. e.g., "www" or "@"
+Host: 根据需求自定义，例如： "www" 或 "@"
 IP: 185.199.108.153
     185.199.109.153
     185.199.110.153
     185.199.111.153
 TTL: 10 min
 ```
+然后，编辑这个仓库中 [CNAME](./CNAME) 文件的内容为你自定义的域名。
 
-Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
+### 通过Jekyll在本地使用
 
-### Using Locally with Jekyll
+*首先你需要安装 [Ruby](https://www.ruby-lang.org/en/) 和 [Jekyll](https://jekyllrb.com/).*
 
-*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
-
-Clone this repository:
+克隆这个项目:
 
 ```bash
 git clone https://github.com/yaoyao-liu/minimal-light.git
 cd minimal-light
 ```
-Install and run:
+安装并运行:
 
 ```bash
 bundle install
 bundle exec jekyll server
 ```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in `_site` folder.
+在`localhost`预览网页:
+<http://localhost:4000>. 
+你可以在`_site`文件夹中找到 html 文件.
 
-## Customizing
+## 自定义内容
 
-### Configuration variables
+### 配置变量
 
-The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
+Minimal Light 主题有以下的变量, 你可以在`_config.yml`文件中修改:
 
   ```yaml
-title: Your Name
-affiliation: Your Affiliation
+title: 你的名字
+affiliation: 你的单位
 email: yourname (at) example.edu
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
@@ -92,20 +91,20 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: 在这里输入网页描述.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
   ```
-### Editing `index.md`
+### 编辑 `index.md`
 
-Create `index.md` and add your personal information (e.g. publications, research).
+创建`index.md`并添加你的个人信息(如：发表的论文，研究课题等).
 
-### Stylesheet
+### 网页样式（CSS)
 
-If you'd like to add your own custom styles:
+如果你需要修改网页的风格（基于 CSS）:
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
+1. 在你的项目中创建`/assets/css/style.scss`文件
+2. 在该文件的顶端加入如下内容:
 
     ```scss
     ---
@@ -113,25 +112,13 @@ If you'd like to add your own custom styles:
 
     @import "{{ site.theme }}";
     ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+3. 在`@import`那一行添加自定义 CSS (或 Sass)格式
 
-### Layouts
+### 网页样式（基于 html）
 
-If you'd like to change the theme's HTML layout:
+如果你需要修改网页的 html 样式:
 
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/homepage.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-## License
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
-
-## Acknowledgements
-
-Our project uses the source code from the following repositories:
-
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
-
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+1. 从本项目中[复制原始模板](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html)<br />(*小提示: 点击"raw"可以直接显示原始文件, 拷贝起来更方便*)
+2. 在你的项目中创建`/_layouts/homepage.html`文件
+3. 把第一步中复制的原始模板粘贴进去
+4. 根据自己的需求修改 html 文件
