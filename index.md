@@ -5,7 +5,12 @@ layout: homepage
 ## About Me
 
 I am an undergraduate student at [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
-I joined the [Big Data Analytics and Intelligence Lab](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20) in 2020. 
+I joined the [Big Data Analytics and Intelligence Lab](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20) in May 2020 and I joined the Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ)'s research group.
+
+
+## Education Background
+
+Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Research Interests
 
