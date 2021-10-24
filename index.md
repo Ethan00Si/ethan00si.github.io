@@ -21,10 +21,12 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Publications
 
-- **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
+- **Coming Soon**
+
+<!-- - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
   submitted to NIPS2021, under review 
-  <br>
+  <br>  -->
   <!-- 33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
@@ -52,6 +54,18 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
+
+## Work Experience
+
+- **Recommendation algorithm engineer intern**
+  <br>
+  Kuaishou Technology C0., Ltd., Beijing
+  <br>
+  社区科学部/模型与应用组/精排模型组
+  <br>
+  **Jul. 2021 ~ Now**
+  <br>
+
 
 <!-- ## Services
 
