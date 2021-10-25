@@ -15,8 +15,7 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 ## Research Interests
 
 ***Information Retrieval***
-- **Search Engine:** learning to rank, learning to match
-- **Recommender System:** joint search and recommendation model
+- **Search Engine, Recommender System:** learning a joint search and recommendation model
 
 
 ## Publications

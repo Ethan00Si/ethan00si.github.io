@@ -16,13 +16,12 @@ layout: homepage_zh
 ## 研究兴趣
 
 ***信息检索***
-- **Search Engine:** learning to rank, learning to match
-- **Recommender System:** joint search and recommendation model
+- **搜索引擎、推荐系统:**  搜索、推荐融合
 
 
 ## 学术论文
 
-- **Coming Soon**
+- **即将到来**
 
 
 ## 工作经验
