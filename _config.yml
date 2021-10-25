@@ -26,3 +26,4 @@ future: True
 base_url : https://ethan00si.github.io/zihua_si.github.io/
 # base_url : http://127.0.0.1:4000
 
+timezone: Asia/Shanghai
