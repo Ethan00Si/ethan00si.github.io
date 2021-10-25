@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: homepage_en
 ---
 
 ## About Me
