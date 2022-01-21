@@ -5,7 +5,7 @@ layout: homepage_en
 ## About Me
 
 I am an undergraduate student at [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
-I joined the [Big Data Analytics and Intelligence Lab](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20) in May 2020 and I joined the Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ)'s research group.
+I joined the [Beijing Key Laboratory of Big Data Management and Analysis Methods](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)(BDAI) in May 2020 and I am supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 
 ## Education Background
@@ -15,12 +15,20 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 ## Research Interests
 
 ***Information Retrieval***
-- **Search Engine, Recommender System:** learning a joint search and recommendation model
+- **Data Mining:** recommendation system
+- **Causal Inference**: identify causal relationships
 
 
 ## Publications
 
-- **Coming Soon**
+- **A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**
+  <br>
+  **Zihua Si**, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
+  <br>
+  The Web Conference. <span style="color:blue;font-weight:600">(WWW 2022)</span>. <span style="color:red;font-weight:600">(CCF A)</span>.
+  <br>
+  [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
+  <!-- [[PDF](https://ar.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 <!-- - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
@@ -30,21 +38,7 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
   <br>
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
 
-<!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-<!-- - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
 <!-- 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
@@ -56,18 +50,13 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Work Experience
 
-- **Recommendation algorithm engineer intern**
+- **Jul. 2021 ~ Now**
   <br>
   Kuaishou Technology C0., Ltd., Beijing
   <br>
-  社区科学部/模型与应用组/精排模型组
+  department of community science/ model and application group
   <br>
-  **Jul. 2021 ~ Now**
+  **Recommendation algorithm engineer (intern)**
   <br>
 
 
-<!-- ## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
