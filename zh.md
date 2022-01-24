@@ -26,7 +26,7 @@ layout: homepage_zh
   <br>
   **Zihua Si**, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
   <br>
-  The Web Conference. <span style="color:blue;font-weight:600">(WWW 2022)</span>. <span style="color:red;font-weight:600">(CCF A)</span>.
+  The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2022)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
 
