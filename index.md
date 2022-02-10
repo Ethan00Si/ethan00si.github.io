@@ -28,7 +28,8 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
   The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2022)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
-  <!-- [[PDF](https://ar.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+  [[PDF](https://arxiv.org/pdf/2202.04514.pdf)] 
+  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 <!-- - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
