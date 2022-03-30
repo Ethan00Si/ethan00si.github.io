@@ -4,8 +4,8 @@ layout: homepage_en
 
 ## About Me
 
-I am an undergraduate student at [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
-I joined the [Beijing Key Laboratory of Big Data Management and Analysis Methods](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)(BDAI) in May 2020 and I am supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
+He is an undergraduate student at [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
+He joined the [Beijing Key Laboratory of Big Data Management and Analysis Methods](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)(BDAI) in May 2020 and was supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 
 ## Education Background
@@ -14,9 +14,9 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Research Interests
 
-***Information Retrieval***
-- **Data Mining:** recommendation system
-- **Causal Inference**: identify causal relationships
+***Recommender System***
+- He’s currently interested in **causal inference** for recommender systems. He is also interested in **sequential recommendation** and **causal theory** in machine learning.
+
 
 
 ## Publications
@@ -40,14 +40,6 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
 
 
-<!-- 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Work Experience
 
