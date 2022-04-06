@@ -43,13 +43,11 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
 ## Work Experience
 
-- **Jul. 2021 ~ Now**
-  <br>
-  Kuaishou Technology C0., Ltd., Beijing
-  <br>
-  department of community science/ model and application group
-  <br>
-  **Recommendation algorithm engineer (intern)**
-  <br>
+- **Kuaishou**: Research Intern
+  - ***Jul. 2021 ~ Now***
+  - Model and Application Group
+  - Research Directions: Recommender Systems with Search Data
+  - Advisor: Yin Yue and Xiaoxue Zang
+
 
 
