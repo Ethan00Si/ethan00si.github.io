@@ -4,13 +4,15 @@ layout: homepage_en
 
 ## About Me
 
-He is an undergraduate student at [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
+He is currently a graduate student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
 He joined the [Beijing Key Laboratory of Big Data Management and Analysis Methods](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)(BDAI) in May 2020 and was supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 
 ## Education Background
 
-Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
+2018 ~ 2022: B.S. in School of Information, Renmin University of China.
+
+2022 ~ Now (Expected 2025): M.E. in Gaoling School of Artificial Intelligence, Renmin University of China.
 
 ## Research Interests
 

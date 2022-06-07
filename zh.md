@@ -4,13 +4,15 @@ layout: homepage_zh
 
 ## 个人简介
 
-他是[中国人民大学](https://www.ruc.edu.cn/), [信息学院](http://info.ruc.edu.cn/)的一名本科生。他于2020年5月加入了[大数据管理与分析方法研究北京市重点实验室](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)，师从[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。
+他是[中国人民大学](https://www.ruc.edu.cn/), [高瓴人工智能学院](http://info.ruc.edu.cn/)的一名研究生。他于2020年5月加入了[大数据管理与分析方法研究北京市重点实验室](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)，师从[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。
 
 
 
 ## 教育背景
 
-2018.09 - 至今: 中国人民大学 计算机科学与技术 学士
+2018 - 2022: 中国人民大学 信息学院 学士
+
+2022 - 现在（预计2025）: 中国人民大学 高瓴人工智能学院 硕士
 
 
 ## 研究兴趣
