@@ -10,14 +10,14 @@ He joined the [Beijing Key Laboratory of Big Data Management and Analysis Method
 
 ## Education Background
 
-2018 ~ 2022: B.S. in School of Information, Renmin University of China.
+2018 ~ 2022: B.E. in School of Information, Renmin University of China.
 
 2022 ~ Now (Expected 2025): M.E. in Gaoling School of Artificial Intelligence, Renmin University of China.
 
 ## Research Interests
 
 ***Recommender System***
-- He’s currently interested in **causal inference** for recommender systems. He is also interested in **sequential recommendation** and **causal theory** in machine learning.
+- He’s currently interested in leveraging user search activities for boosting recommender systems. He is also interested in **sequential recommendation** and **causal theory** in machine learning.
 
 
 
