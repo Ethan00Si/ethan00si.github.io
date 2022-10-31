@@ -5,7 +5,7 @@ layout: homepage_en
 ## About Me
 
 He is currently a graduate student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
-He joined the [Beijing Key Laboratory of Big Data Management and Analysis Methods](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)(BDAI) in May 2020 and was supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
+He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods (BDAI) in May 2020 and was supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 
 ## Education Background
@@ -17,7 +17,7 @@ He joined the [Beijing Key Laboratory of Big Data Management and Analysis Method
 ## Research Interests
 
 ***Recommender System***
-- He’s currently interested in leveraging user search activities for boosting recommender systems. He is also interested in **sequential recommendation** and **causal theory** in machine learning.
+- He’s currently interested in leveraging user search activities for boosting recommender systems. He is also interested in **sequential recommendation** and **causal inference**.
 
 
 
@@ -33,13 +33,15 @@ He joined the [Beijing Key Laboratory of Big Data Management and Analysis Method
   [[PDF](https://arxiv.org/pdf/2202.04514.pdf)] 
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-<!-- - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
+- **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
-  submitted to NIPS2021, under review 
-  <br>  -->
-  <!-- 33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] -->
+  arXiv (preprint). 
+  <br>
+  [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
+  
+\* denotes equal contribution.
 
 
 

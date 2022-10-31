@@ -4,7 +4,7 @@ layout: homepage_zh
 
 ## 个人简介
 
-他是[中国人民大学](https://www.ruc.edu.cn/), [高瓴人工智能学院](http://info.ruc.edu.cn/)的一名研究生。他于2020年5月加入了[大数据管理与分析方法研究北京市重点实验室](http://info.ruc.edu.cn/academic_research_lab_detail.php?id=20)，师从[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。
+他是[中国人民大学](https://www.ruc.edu.cn/), [高瓴人工智能学院](http://info.ruc.edu.cn/)的一名研究生。他于2020年5月加入了大数据管理与分析方法研究北京市重点实验室，师从[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。
 
 
 
@@ -18,7 +18,7 @@ layout: homepage_zh
 ## 研究兴趣
 
 ***推荐系统***
-- 他现在对于利用用户搜索行为辅助推荐系统很感兴趣。他同样对于**序列推荐**和**机器学习中的因果理论**十分感兴趣。
+- 他现在对于利用用户搜索行为辅助推荐系统很感兴趣。他同样对于**序列推荐**和**因果推断**十分感兴趣。
 
 
 ## 学术论文
@@ -31,6 +31,16 @@ layout: homepage_zh
   <br>
   [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
   [[PDF](https://arxiv.org/pdf/2202.04514.pdf)]
+
+- **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
+  <br>
+  Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
+  <br>
+  arXiv (preprint). 
+  <br>
+  [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
+  
+\* 代表同等贡献.
 
 ## 工作经验
 
