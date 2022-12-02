@@ -4,7 +4,7 @@ layout: homepage_en
 
 ## About Me
 
-He is currently a graduate student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
+He is currently a postgraduate student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
 He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods (BDAI) in May 2020 and was supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ).
 
 
