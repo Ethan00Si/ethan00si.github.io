@@ -17,7 +17,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 ## Research Interests
 
 ***Recommender System***
-- He’s currently interested in leveraging user search activities for boosting recommender systems. He is also interested in **sequential recommendation** and **causal inference**.
+- He’s currently interested in leveraging users' search activities to boost recommender systems. He is also interested in **sequential recommendation** and **causal inference**.
 
 
 
@@ -33,6 +33,15 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   [[PDF](https://arxiv.org/pdf/2202.04514.pdf)] 
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
+- **Enhancing Recommendation with Search Data in a Causal Learning Manner**
+  <br>
+  **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen 
+  <br>
+  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
+  <br>
+  [Just accepted]
+  <!-- [[PDF](https://arxiv.org/pdf/2210.06719.pdf)]  -->
+
 - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
   Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
@@ -40,6 +49,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   arXiv (preprint). 
   <br>
   [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
+
   
 \* denotes equal contribution.
 
