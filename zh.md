@@ -38,8 +38,8 @@ layout: homepage_zh
   <br>
   Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
-  [Just accepted]
-  <!-- [[PDF](https://arxiv.org/pdf/2210.06719.pdf)]  -->
+  [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
+  [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
 
 - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
