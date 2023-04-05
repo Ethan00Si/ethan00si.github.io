@@ -23,24 +23,34 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 ## Publications
 
-- **A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**
+- **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**
   <br>
-  **Zihua Si**, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
+  **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai, Ji-Rong Wen 
   <br>
-  The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2022)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
+  The ACM SIGIR Conference. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. 
   <br>
-  [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
-  [[PDF](https://arxiv.org/pdf/2202.04514.pdf)] 
-  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+  [Just accepted]
 
 - **Enhancing Recommendation with Search Data in a Causal Learning Manner**
   <br>
   **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen 
   <br>
-  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
+  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>.
   <br>
   [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
   [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
+
+- **A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**
+  <br>
+  **Zihua Si**, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
+  <br>
+  The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2022)</span>.
+  <br>
+  [[Code](https://github.com/Ethan00Si/Instrumental-variables-for-recommendation)]
+  [[PDF](https://arxiv.org/pdf/2202.04514.pdf)] 
+  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+
+
 
 - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
