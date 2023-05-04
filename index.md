@@ -29,6 +29,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   The ACM SIGIR Conference. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. 
   <br>
+  [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
   [Just accepted]
 
 - **Enhancing Recommendation with Search Data in a Causal Learning Manner**
@@ -39,6 +40,15 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
   [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
+
+- **Uncovering ChatGPT's Capabilities in Recommender Systems**
+  <br>
+  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
+  <br>
+  arXiv (preprint). (2023)
+  <br>
+  [[Code](https://github.com/rainym00d/LLM4RS)]
+  [[PDF](https://arxiv.org/abs/2305.02182)] 
 
 - **A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**
   <br>
@@ -54,15 +64,13 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 - **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
   <br>
-  Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
+  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
   <br>
-  arXiv (preprint). 
+  arXiv (preprint). (2022)
   <br>
   [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
 
   
-\* denotes equal contribution.
-
 
 
 ## Work Experience
