@@ -18,7 +18,7 @@ layout: homepage_zh
 ## 研究兴趣
 
 ***推荐系统***
-- 他现在对于利用用户搜索行为辅助推荐系统很感兴趣。他同样对于**序列推荐**和**因果推断**十分感兴趣。
+- 他的研究兴趣主要集中在推荐系统，包括如何利用搜索数据来增强推荐系统以及如何利用生成式模型构建推荐系统。
 
 
 ## 学术论文
@@ -30,7 +30,7 @@ layout: homepage_zh
   The ACM SIGIR Conference. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
-  [Just accepted]
+  [[PDF](https://arxiv.org/abs/2305.10822)] 
 
 - **Enhancing Recommendation with Search Data in a Causal Learning Manner**
   <br>

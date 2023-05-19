@@ -17,7 +17,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 ## Research Interests
 
 ***Recommender System***
-- He’s currently interested in leveraging users' search activities to boost recommender systems. He is also interested in **sequential recommendation** and **causal inference**.
+- His research interests mainly focus on recommender systems, especially on how to leverage search data for recommendation as well as how to facilitate recommendation with generative models.
 
 
 
@@ -30,7 +30,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   The ACM SIGIR Conference. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. 
   <br>
   [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
-  [Just accepted]
+  [[PDF](https://arxiv.org/abs/2305.10822)] 
 
 - **Enhancing Recommendation with Search Data in a Causal Learning Manner**
   <br>
