@@ -41,6 +41,15 @@ layout: homepage_zh
   [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
   [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
   
+- **KuaiSAR: A Unified Search And Recommendation Dataset**
+  <br>
+  Zhongxiang Sun\*, **Zihua Si**\*, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu (* denotes equal contribution)
+  <br>
+  arXiv (preprint). (2023)
+  <br>
+  [[Code](https://github.com/Ethan00Si/KuaiSAR)]
+  [[PDF](https://arxiv.org/abs/2306.07705)] 
+
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
   Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
