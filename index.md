@@ -88,7 +88,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   - ***Jul. 2021 ~ Now***
   - Model and Application Group
   - Research Directions: Recommender Systems with Search Data
-  - Advisor: Yin Yue and Xiaoxue Zang
+  - Advisor: Xiaoxue Zang and Yue Yin
 
 
 

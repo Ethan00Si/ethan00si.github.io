@@ -69,6 +69,11 @@
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
+          {% if site.semantic_scholar %}
+          <a href="{{ site.semantic_scholar }}" target="_blank">
+            <i class="ai ai-semantic-scholar" style="font-size: 1.6rem;"></i>
+          </a>
+          {% endif %}
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
