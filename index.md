@@ -32,14 +32,14 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
   [[PDF](https://arxiv.org/abs/2305.10822)] 
 
-- **Enhancing Recommendation with Search Data in a Causal Learning Manner**
+- **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
-  **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen 
+  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
   <br>
-  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>.
+  The ACM Conference on Recommender Systems. <span style="color:#ff904f;font-weight:1000">(RecSys 2023)</span>.
   <br>
-  [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
-  [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
+  [[Code](https://github.com/rainym00d/LLM4RS)]
+  [[PDF](https://arxiv.org/abs/2305.02182)] 
 
 - **KuaiSAR: A Unified Search And Recommendation Dataset**
   <br>
@@ -50,14 +50,14 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   [[Code](https://github.com/Ethan00Si/KuaiSAR)]
   [[PDF](https://arxiv.org/abs/2306.07705)] 
 
-- **Uncovering ChatGPT's Capabilities in Recommender Systems**
+- **Enhancing Recommendation with Search Data in a Causal Learning Manner**
   <br>
-  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
+  **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen 
   <br>
-  arXiv (preprint). (2023)
+  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>.
   <br>
-  [[Code](https://github.com/rainym00d/LLM4RS)]
-  [[PDF](https://arxiv.org/abs/2305.02182)] 
+  [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
+  [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 
 
 - **A Model-Agnostic Causal Learning Framework for Recommendation using Search Data**
   <br>
