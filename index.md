@@ -32,6 +32,15 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
   [[PDF](https://arxiv.org/abs/2305.10822)] 
 
+- **KuaiSAR: A Unified Search And Recommendation Dataset**
+  <br>
+  Zhongxiang Sun\*, **Zihua Si**\*, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu (* denotes equal contribution)
+  <br>
+  The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2023)</span>.
+  <br>
+  [[Code](https://github.com/Ethan00Si/KuaiSAR)]
+  [[PDF](https://arxiv.org/abs/2306.07705)] 
+
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
   Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
@@ -40,15 +49,6 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   [[Code](https://github.com/rainym00d/LLM4RS)]
   [[PDF](https://arxiv.org/abs/2305.02182)] 
-
-- **KuaiSAR: A Unified Search And Recommendation Dataset**
-  <br>
-  Zhongxiang Sun\*, **Zihua Si**\*, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu (* denotes equal contribution)
-  <br>
-  arXiv (preprint). (2023)
-  <br>
-  [[Code](https://github.com/Ethan00Si/KuaiSAR)]
-  [[PDF](https://arxiv.org/abs/2306.07705)] 
 
 - **Enhancing Recommendation with Search Data in a Causal Learning Manner**
   <br>
