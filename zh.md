@@ -41,6 +41,15 @@ layout: homepage_zh
   [[Code](https://github.com/Ethan00Si/KuaiSAR)]
   [[PDF](https://arxiv.org/abs/2306.07705)] 
 
+- **Reward Imputation with Sketching for Contextual Batched Bandits**
+  <br>
+  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
+  <br>
+  The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NIPS 2023)</span>.
+  <span style="color:red;font-weight:1000">(CCF A)</span>. 
+  <br>
+  [Just Accepted] 
+
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
   Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
