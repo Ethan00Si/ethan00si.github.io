@@ -50,6 +50,15 @@ layout: homepage_zh
   <br>
   [Just Accepted] 
 
+- **Explainable Legal Case Matching via Graph Optimal Transport**
+  <br>
+  Zhongxiang Sun, Weijie Yu, **Zihua Si**, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen 
+  <br>
+  IEEE Transactions on Knowledge and Data Engineering. <span style="color:#ff904f;font-weight:1000">(TKDE 2023)</span>. 
+  <span style="color:red;font-weight:1000">(CCF A)</span>.
+  <br>
+  [Just Accepted] 
+
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
   Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, **Zihua Si**, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
@@ -63,7 +72,8 @@ layout: homepage_zh
   <br>
   **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen 
   <br>
-  Transactions on Information Systems. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
+  ACM Transactions on Information Systems. Vol. 41, No. 4. <span style="color:#ff904f;font-weight:1000">(TOIS 2023)</span>.
+  <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/Ethan00Si/IV4RecPlus-TOIS-2023)]
   [[PDF](https://dl.acm.org/doi/10.1145/3582425)] 

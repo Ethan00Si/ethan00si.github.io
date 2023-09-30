@@ -29,5 +29,7 @@ future: True
 base_url: https://ethan00si.github.io
 # base_url : http://127.0.0.1:4000  # debug in local
 
-# timezone: Asia/Shanghai
-timezone: America/New_York
+timezone: Asia/Shanghai
+
+
+
