@@ -43,10 +43,11 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 - **Reward Imputation with Sketching for Contextual Batched Bandits**
   <br>
-  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
+  Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen (* denotes equal contribution)
   <br>
-  The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NIPS 2023)</span>. 
+  The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NeurIPS 2023)</span>. 
   <br>
+  [[Code](https://github.com/rainym00d/NeurIPS-2023-Reward-Imputation-with-Sketching-for-Contextual-Batched-Bandits)]
   [Just Accepted] 
 
 - **Explainable Legal Case Matching via Graph Optimal Transport**
@@ -55,6 +56,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   IEEE Transactions on Knowledge and Data Engineering. <span style="color:#ff904f;font-weight:1000">(TKDE 2023)</span>. 
   <br>
+  [[Code](https://github.com/Jeryi-Sun/GEIOT-Match)]
   [Just Accepted] 
 
 
@@ -87,14 +89,6 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 
-
-- **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
-  <br>
-  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
-  <br>
-  arXiv (preprint). (2022)
-  <br>
-  [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
 
   
 

@@ -43,12 +43,13 @@ layout: homepage_zh
 
 - **Reward Imputation with Sketching for Contextual Batched Bandits**
   <br>
-  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
+  Xiao Zhang, Ninglu Shao\*, **Zihua Si**\*, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen (* denotes equal contribution)
   <br>
-  The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NIPS 2023)</span>.
-  <span style="color:red;font-weight:1000">(CCF A)</span>. 
+  The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NeurIPS 2023)</span>. 
+  <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
-  [Just Accepted] 
+  [[Code](https://github.com/rainym00d/NeurIPS-2023-Reward-Imputation-with-Sketching-for-Contextual-Batched-Bandits)]
+  [Just Accepted]  
 
 - **Explainable Legal Case Matching via Graph Optimal Transport**
   <br>
@@ -57,6 +58,7 @@ layout: homepage_zh
   IEEE Transactions on Knowledge and Data Engineering. <span style="color:#ff904f;font-weight:1000">(TKDE 2023)</span>. 
   <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
+  [[Code](https://github.com/Jeryi-Sun/GEIOT-Match)]
   [Just Accepted] 
 
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
@@ -88,13 +90,7 @@ layout: homepage_zh
   [[PDF](https://arxiv.org/pdf/2202.04514.pdf)]
 
 
-- **Partial Information as Full: Batched Bandits using Efficient Reward Imputation**
-  <br>
-  Xiao Zhang, Ninglu Shao, **Zihua Si**, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen 
-  <br>
-  arXiv (preprint). (2022)
-  <br>
-  [[PDF](https://arxiv.org/pdf/2210.06719.pdf)] 
+
   
 
 ## 工作经验
