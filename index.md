@@ -38,7 +38,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2023)</span>.
   <br>
-  [[Code](https://github.com/Ethan00Si/KuaiSAR)]
+  [[Code](https://github.com/KuaiSAR/KuaiSAR.github.io)]
   [[PDF](https://arxiv.org/abs/2306.07705)] 
 
 - **Reward Imputation with Sketching for Contextual Batched Bandits**
@@ -48,7 +48,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   The Conference on Neural Information Processing Systems. <span style="color:#ff904f;font-weight:1000">(NeurIPS 2023)</span>. 
   <br>
   [[Code](https://github.com/rainym00d/NeurIPS-2023-Reward-Imputation-with-Sketching-for-Contextual-Batched-Bandits)]
-  [Just Accepted] 
+  [[PDF](https://arxiv.org/abs/2210.06719)]  
 
 - **Explainable Legal Case Matching via Graph Optimal Transport**
   <br>
