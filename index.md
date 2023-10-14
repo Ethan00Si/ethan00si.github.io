@@ -57,7 +57,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   IEEE Transactions on Knowledge and Data Engineering. <span style="color:#ff904f;font-weight:1000">(TKDE 2023)</span>. 
   <br>
   [[Code](https://github.com/Jeryi-Sun/GEIOT-Match)]
-  [Just Accepted] 
+  [[PDF](https://ieeexplore.ieee.org/document/10285038)]  
 
 
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
