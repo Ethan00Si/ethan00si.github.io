@@ -59,7 +59,7 @@ layout: homepage_zh
   <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/Jeryi-Sun/GEIOT-Match)]
-  [Just Accepted] 
+  [[PDF](https://ieeexplore.ieee.org/document/10285038)] 
 
 - **Uncovering ChatGPT's Capabilities in Recommender Systems**
   <br>
