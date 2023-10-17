@@ -49,7 +49,7 @@ layout: homepage_zh
   <span style="color:red;font-weight:1000">(CCF A)</span>.
   <br>
   [[Code](https://github.com/rainym00d/NeurIPS-2023-Reward-Imputation-with-Sketching-for-Contextual-Batched-Bandits)]
-  [Just Accepted]  
+  [[PDF](https://arxiv.org/abs/2210.06719)]  
 
 - **Explainable Legal Case Matching via Graph Optimal Transport**
   <br>
