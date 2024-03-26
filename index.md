@@ -23,11 +23,37 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 ## Publications
 
+
+
+- **To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**
+  <br>
+  Zhongxiang Sun, **Zihua Si**, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu 
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
+  <br>
+  [Just Accepted]
+
+- **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
+  <br>
+  Teng Shi, **Zihua Si**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
+  <br>
+  [Just Accepted]
+
+- **Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach**
+  <br>
+  Weicong Qin, Zelin Cao, Weijie Yu, **Zihua Si**, Sirui Chen and Jun Xu 
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
+  <br>
+  [Just Accepted]
+
 - **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**
   <br>
   **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai, Ji-Rong Wen 
   <br>
-  The ACM SIGIR Conference. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. 
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2023)</span>. 
   <br>
   [[Code](https://github.com/Ethan00Si/SESREC-SIGIR-2023)]
   [[PDF](https://arxiv.org/abs/2305.10822)] 
@@ -95,11 +121,11 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 ## Work Experience
 
-- **Kuaishou**: Research Intern
-  - ***Jul. 2021 ~ Now***
-  - Model and Application Group
-  - Research Directions: Recommender Systems with Search Data
-  - Advisor: Xiaoxue Zang and Yue Yin
+- **Kuaishou**: Intern
+  - ***Mar. 2024 ~ Now***
+  - Search Group
+  - Role: Modeling user interests for query recommendation
+  - Advisor: [Xiaoxue Zang](https://scholar.google.com/citations?user=xjeBnbUAAAAJ&hl=zh-CN)
 
 
 

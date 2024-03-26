@@ -23,6 +23,30 @@ layout: homepage_zh
 
 ## 学术论文
 
+- **To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**
+  <br>
+  Zhongxiang Sun, **Zihua Si**, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu 
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>.
+  <br>
+  [Just Accepted]
+
+- **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
+  <br>
+  Teng Shi, **Zihua Si**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>. 
+  <br>
+  [Just Accepted]
+
+- **Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach**
+  <br>
+  Weicong Qin, Zelin Cao, Weijie Yu, **Zihua Si**, Sirui Chen and Jun Xu 
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>. 
+  <br>
+  [Just Accepted]
+
 - **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**
   <br>
   **Zihua Si**, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai, Ji-Rong Wen 
@@ -95,13 +119,11 @@ layout: homepage_zh
 
 ## 工作经验
 
-- **快手**：学术实习生
-  - ***2021.07 ～ 至今***
-  - 模型与应用组/精排模型组
-  - 研究方向：利用搜索数据辅助推荐模型
-  - 指导者：臧晓雪、殷越
-
-
+- **快手**: 实习生
+  - ***2024. 03 ~ 至今***
+  - 搜索技术部
+  - 指责: 为"搜索词推荐"建模用户兴趣
+  - Mentor: [Xiaoxue Zang](https://scholar.google.com/citations?user=xjeBnbUAAAAJ&hl=zh-CN)
 
 
 <!-- ## 项目经历
