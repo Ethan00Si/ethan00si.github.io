@@ -125,6 +125,11 @@ layout: homepage_zh
   - 指责: 为"搜索词推荐"建模用户兴趣
   - Mentor: [Xiaoxue Zang](https://scholar.google.com/citations?user=xjeBnbUAAAAJ&hl=zh-CN)
 
+## 社会服务（学术社区）
+
+- PC Member: CIKM 2023, SIGIR 2024, CIKM 2024
+- Reviewer (including sub-reviewer): KDD 2022, CIKM 2023, CCIR 2023, WWW 2024, SIGIR 2024
+- Volunteer: SIGIR-AP 2023
 
 <!-- ## 项目经历
 
