@@ -31,7 +31,8 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
   <br>
-  [Just Accepted]
+  [[Code](https://github.com/Jeryi-Sun/NHP_OAM)]
+  [[PDF](https://arxiv.org/abs/2404.03267)]
 
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
   <br>
@@ -39,7 +40,8 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
   <br>
-  [Just Accepted]
+  [[Code](https://github.com/TengShi-RUC/UniSAR)]
+  [[PDF](https://arxiv.org/abs/2404.09520)]
 
 - **Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach**
   <br>
@@ -47,7 +49,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. 
   <br>
-  [Just Accepted]
+  [[PDF](https://arxiv.org/abs/2312.09591)]
 
 - **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**
   <br>
