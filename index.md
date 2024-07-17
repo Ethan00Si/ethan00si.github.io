@@ -38,7 +38,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>.
   <br>
   [[Code](https://github.com/Jeryi-Sun/LLM-CF)]
-  [[PDF](https://arxiv.org/abs/2403.17688)](Just Accepted. The revised version will be available soon.)
+  [[PDF](https://arxiv.org/abs/2403.17688)] (Just Accepted. The revised version will be available soon.)
   
 
 
