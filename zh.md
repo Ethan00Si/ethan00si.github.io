@@ -38,7 +38,7 @@ layout: homepage_zh
   The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>. <span style="color:red;font-weight:1000">(CCF B)</span>.
   <br>
   [[Code](https://github.com/Jeryi-Sun/LLM-CF)]
-  [[PDF](https://arxiv.org/abs/2403.17688)](Just Accepted. The revised version will be available soon.)
+  [[PDF](https://arxiv.org/abs/2403.17688)] (Just Accepted. The revised version will be available soon.)
 
 - **To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**
   <br>
