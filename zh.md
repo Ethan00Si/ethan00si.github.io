@@ -23,6 +23,23 @@ layout: homepage_zh
 
 ## 学术论文
 
+- **TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**
+  <br>
+  **Zihua Si**, Lin Guan, Zhongxiang Sun, Xiaoxue Zang, Jing Lu, Yiqun Hui, Xingchao Cao, Zeyu Yang, Yichen Zheng, Dewei Leng, Kai Zheng, Chenbin Zhang, Yanan Niu, Yang Song and Kun Gai
+  <br>
+  The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>. <span style="color:red;font-weight:1000">(CCF B)</span>.
+  <br>
+  (Just Accepted. The pdf will be available soon.)
+
+- **Large Language Models Enhanced Collaborative Filtering**
+  <br>
+  Zhongxiang Sun\*, **Zihua Si**\*, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang and Jun Xu (* denotes equal contribution)
+  <br>
+  The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>. <span style="color:red;font-weight:1000">(CCF B)</span>.
+  <br>
+  [[Code](https://github.com/Jeryi-Sun/LLM-CF)]
+  [[PDF](https://arxiv.org/abs/2403.17688)](Just Accepted. The revised version will be available soon.)
+
 - **To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**
   <br>
   Zhongxiang Sun, **Zihua Si**, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu 
