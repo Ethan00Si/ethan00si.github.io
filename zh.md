@@ -29,7 +29,7 @@ layout: homepage_zh
   <br>
   The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>. <span style="color:red;font-weight:1000">(CCF B)</span>.
   <br>
-  (Just Accepted. The pdf will be available soon.)
+  [[PDF](https://arxiv.org/abs/2407.16357)]
 
 - **Large Language Models Enhanced Collaborative Filtering**
   <br>
@@ -38,7 +38,7 @@ layout: homepage_zh
   The ACM Conference on Information and Knowledge Management. <span style="color:#ff904f;font-weight:1000">(CIKM 2024)</span>. <span style="color:red;font-weight:1000">(CCF B)</span>.
   <br>
   [[Code](https://github.com/Jeryi-Sun/LLM-CF)]
-  [[PDF](https://arxiv.org/abs/2403.17688)] (Just Accepted. The revised version will be available soon.)
+  [[PDF](https://arxiv.org/abs/2403.17688)]
 
 - **To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process**
   <br>
@@ -64,6 +64,7 @@ layout: homepage_zh
   <br>
   The ACM SIGIR Conference on Research and Development in Information Retrieval. <span style="color:#ff904f;font-weight:1000">(SIGIR 2024)</span>. <span style="color:red;font-weight:1000">(CCF A)</span>. 
   <br>
+  [[Code](https://github.com/e-qin/gear)]
   [[PDF](https://arxiv.org/abs/2312.09591)]
 
 - **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation**
