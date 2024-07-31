@@ -136,18 +136,6 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 
 
-  
-
-
-## Work Experience
-
-- **Kuaishou**: Intern
-  - ***Mar. 2024 ~ Now***
-  - Search Group
-  - Role: Modeling user interests for query recommendation
-  - Advisor: [Xiaoxue Zang](https://scholar.google.com/citations?user=xjeBnbUAAAAJ&hl=zh-CN)
-
-
 ## Social Service
 
 - PC Member: CIKM 2023, SIGIR 2024, CIKM 2024
