@@ -31,6 +31,15 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   [[PDF](https://arxiv.org/abs/2407.16357)]
 
+- **TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**
+  <br>
+  **Zihua Si**, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang, Jun Xu and Kun Gai
+  <br>
+  The ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region. <span style="color:#ff904f;font-weight:1000">(SIGIR-AP 2024)</span>. **(Best Paper Award)**.
+  <br>
+  [[Code](https://github.com/Ethan00Si/SEATER_Generative_Retrieval?tab=readme-ov-file)]
+  [[PDF](https://dl.acm.org/doi/10.1145/3673791.3698408)]
+
 - **Large Language Models Enhanced Collaborative Filtering**
   <br>
   Zhongxiang Sun\*, **Zihua Si**\*, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang and Jun Xu (* denotes equal contribution)
@@ -136,8 +145,4 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 
 
-## Social Service
 
-- PC Member: CIKM 2023, SIGIR 2024, CIKM 2024
-- Reviewer (including sub-reviewer): KDD 2022, CIKM 2023, CCIR 2023, WWW 2024, SIGIR 2024
-- Volunteer: SIGIR-AP 2023
