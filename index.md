@@ -31,7 +31,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
   <br>
   [[PDF](https://arxiv.org/abs/2407.16357)]
 
-- **TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**
+- **Generative Retrieval with Semantic Tree-Structured Identifiers and Contrastive Learning**
   <br>
   **Zihua Si**, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang, Jun Xu and Kun Gai
   <br>
