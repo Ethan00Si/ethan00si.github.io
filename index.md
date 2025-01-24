@@ -23,6 +23,15 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 ## Publications
 
+- **LargePiG: Your Large Language Model is Secretly a Pointer Generator**
+  <br>
+  **Zhongxiang Sun**, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang and Jun Xu
+  <br>
+  The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2025)</span>.
+  <br>
+  [[Code](https://github.com/Jeryi-Sun/LargePiG)]
+  [[PDF](https://arxiv.org/abs/2410.11366)]
+
 - **TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou**
   <br>
   **Zihua Si**, Lin Guan, Zhongxiang Sun, Xiaoxue Zang, Jing Lu, Yiqun Hui, Xingchao Cao, Zeyu Yang, Yichen Zheng, Dewei Leng, Kai Zheng, Chenbin Zhang, Yanan Niu, Yang Song and Kun Gai
