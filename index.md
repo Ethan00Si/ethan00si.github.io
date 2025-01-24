@@ -25,7 +25,7 @@ He joined the Beijing Key Laboratory of Big Data Management and Analysis Methods
 
 - **LargePiG: Your Large Language Model is Secretly a Pointer Generator**
   <br>
-  **Zhongxiang Sun**, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang and Jun Xu
+  Zhongxiang Sun, **Zihua Si**, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang and Jun Xu
   <br>
   The Web Conference. <span style="color:#ff904f;font-weight:1000">(WWW 2025)</span>.
   <br>
